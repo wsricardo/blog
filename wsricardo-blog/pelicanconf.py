@@ -3,9 +3,9 @@
 
 AUTHOR = 'Wandeson Ricardo'
 SITENAME = 'WSRicardo Blog'
-SITEURL = ''
+SITEURL = 'httsp://wsricardo.github.io'
 
-PATH = 'content'
+PATH = '../docs'
 
 TIMEZONE = 'America/Recife'
 
